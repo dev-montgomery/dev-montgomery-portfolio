@@ -1,13 +1,16 @@
 <strong>RICHARD MONTGOMERY</strong>
-<hr>
+
+
 Web Developer | Fullstack JavaScript | Python
 Poulsbo, WA | montgomery.richard.dev@gmail.com | 360.471.9790
 <hr>
 Professional Statement:
 As a Web Developer with a passion for UX design, I am commited to building user-friendly, performant, and visually engaging websites that drive results for clients and businesses.
 
+
 Technical Skills:
 Git Version Control, HTML5/CSS3, SASS, Tailwind, JavaScript ES6, NodeJS & Express, React, NextJS, SQL Databases, MongoDB, AWS, Unit Testing, Python Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit, Learn, Plotly, Matplotlib
+
 
 Application Projects:
 
