@@ -1,10 +1,10 @@
-<strong>#fullstack {
+#fullstack {
   <br>
-  developer: MONTGOMERY, RICHARD,
+    developer: <strong>RICHARD MONTGOMERY</strong>,
   <br>
-  languages: [JavaScript, Python];
+    languages: [JavaScript, Python];
   <br>
-}</strong>
+}
 <br>
 <br>
 Web Developer | Fullstack JavaScript | Python |
