@@ -1,7 +1,10 @@
-<strong>RICHARD MONTGOMERY</strong>
+<strong>#fullstack {
+  developer: MONTGOMERY, RICHARD
+  languages: [JavaScript, Python]
+}</strong>
 <br>
 <br>
-Web Developer | Fullstack JavaScript | Python
+Web Developer | Fullstack JavaScript | Python |
 Poulsbo, WA | montgomery.richard.dev@gmail.com | 360.471.9790
 <hr>
 Professional Statement:
