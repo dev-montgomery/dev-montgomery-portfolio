@@ -1,4 +1,4 @@
-<span style="color:#008aff;"><font size="5">RICHARD MONTGOMERY</font></span>
+<span style="color:#008aff;"><font size="6">RICHARD MONTGOMERY</font></span>
 <hr>
 Web Developer | Fullstack JavaScript | Python |
 Poulsbo, WA | montgomery.richard.dev@gmail.com | 360.471.9790
@@ -21,9 +21,13 @@ Git Version Control, HTML5/CSS3, SASS, Tailwind, JavaScript ES6, NodeJS & Expres
 <span style="color:#84aac7;"><strong>Education:</strong></span>
 <br>
 CodeFellows | Seattle, WA - Advanced Software Development in Full Stack JavaScript | 2018
+<br>
 Udemy - Modern HTML & CSS From The Beginning (Including Sass) | 2023
+<br>
 Udemy - The Complete 2023 Web Development Bootcamp | 2023
+<br>
 Udemy - 50 Projects in 50 Days - HTML, CSS, JavaScript | 2023
+<br>
 Udemy - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 | 2023
 <br>
 <br>
