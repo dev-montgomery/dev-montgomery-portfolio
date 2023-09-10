@@ -1,9 +1,8 @@
 #fullstack {
-  <br>
-  * developer: <strong>RICHARD MONTGOMERY</strong>,
-  <br>
-  * languages: [JavaScript, Python];
-  <br>
+<br>
+* developer: <strong>RICHARD MONTGOMERY</strong>,
+* languages: [JavaScript, Python];
+<br>
 }
 <br>
 <br>
