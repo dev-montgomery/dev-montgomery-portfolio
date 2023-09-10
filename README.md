@@ -1,4 +1,5 @@
-<span style="color:#6595b9;"><h1>RICHARD MONTGOMERY</h1></span>
+<span style="color:#008aff;"><font size="5">RICHARD MONTGOMERY</font></span>
+<hr>
 Web Developer | Fullstack JavaScript | Python |
 Poulsbo, WA | montgomery.richard.dev@gmail.com | 360.471.9790
 <hr>
