@@ -68,11 +68,11 @@ Link to Github Repo
 
 <span style="color:#84aac7;"><strong>Education:</strong></span>
 <br>
-* Udemy - Modern HTML & CSS From The Beginning (Including Sass) | 2023
-* Udemy - The Complete 2023 Web Development Bootcamp | 2023
-* Udemy - 50 Projects in 50 Days - HTML, CSS, JavaScript | 2023
-* Udemy - 100 Days of Code: The Complete Python Pro Bootcamp for 2023 | 2023
-* CodeFellows | Seattle, WA - Advanced Software Development in Full Stack JavaScript | 2018
+* Udemy | Modern HTML & CSS From The Beginning (Including Sass) | 2023
+* Udemy | The Complete 2023 Web Development Bootcamp | 2023
+* Udemy | 50 Projects in 50 Days - HTML, CSS, JavaScript | 2023
+* Udemy | 100 Days of Code: The Complete Python Pro Bootcamp for 2023 | 2023
+* CodeFellows | Seattle, WA | Advanced Software Development in Full Stack JavaScript | 2018
 
 <br>
 
